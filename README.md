@@ -13,7 +13,6 @@ El objetivo principal de este proyecto es desarrollar una aplicación de alarma 
 4. **Notificaciones claras**: Implementar señales visuales y auditivas claras y efectivas para alertar a los usuarios cuando el temporizador de la alarma ha alcanzado su fin.
 
 
-
 |    INTEGRANTES DEL EQUIPO    |   
 |------------------------------|
 |   ROJAS ESCOBAR IOSMIL       | 
