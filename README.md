@@ -1,49 +1,96 @@
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-### General Info
-***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
-***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
-***
-A little intro about the installation. 
+# Proyecto de Alarma con Temporizador
+
+## Descripción 🚀
+
+Este proyecto consiste en el desarrollo de una alarma con temporizador. La alarma permite configurar un tiempo específico tras el cual sonará una alerta sonora. El proyecto fue desarrollado por un equipo de tres integrantes y está implementado en [lenguaje de programación y tecnología utilizados].
+
+### Características 📋
+
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+### Instalación 🔧
+
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+_Dí cómo será ese paso_
+
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
+Da un ejemplo
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+
+_Y repite_
+
+```
+hasta finalizar
+```
+
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
+## Ejecutando las pruebas ⚙️
+
+_Explica como ejecutar las pruebas automatizadas para este sistema_
+
+### Analice las pruebas end-to-end 🔩
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+### Y las pruebas de estilo de codificación ⌨️
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+## Despliegue 📦
+
+_Agrega notas adicionales sobre como hacer deploy_
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
+## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+
+## Versionado 📌
+
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
+* etc.
+
+
+---
+⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
