@@ -1,5 +1,7 @@
 Proyecto de Alarma con Temporizador y Cronómetro Pomodoro
+
 Descripción
+
 Este proyecto implementa una alarma con temporizador y un cronómetro Pomodoro. La alarma permite a los usuarios configurar un temporizador para que suene después de un período específico. El cronómetro Pomodoro sigue la técnica Pomodoro, ayudando a los usuarios a trabajar en intervalos de tiempo definidos con descansos intermedios.
 
 Integrantes del equipo
