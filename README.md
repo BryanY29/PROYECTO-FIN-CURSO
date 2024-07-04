@@ -1,4 +1,4 @@
-# Proyecto de Alarma con Temporizador
+# Proyecto de Alarma Pomodoro
 
 ## Descripción 🚀
 
